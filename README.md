@@ -9,3 +9,29 @@ Image enhancement is the process of improving an image's quality, appearance, or
 | 2024 | IEEE Sensors Journal    | Exposure Calibration Network With Graph Convolution for Low-Light Image Enhancement          | [Link](https://ieeexplore.ieee.org/document/10729734) |
 | 2025 | IEEE Sensors Journal    | A Thermal-Aware Multisensor Framework for Low-Light Image Enhancement          | [Link](https://ieeexplore.ieee.org/document/11097046) |
 | 2025 | IEEE Conf   | Transformer-Based Model for Building Classification Under Diverse Lighting Conditions          | [Link](https://ieeexplore.ieee.org/document/11040288) |
+
+
+The list of other research papers starts from here:
+
+| Year | Publisher| Paper| Link| Short Name |
+| :--: | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
+| 2017 | Elsevier (Pattern Recognition)      | LLNet: A deep autoencoder approach to natural low-light image enhancement | [pdf](https://doi.org/10.1016/j.patcog.2016.06.008) | LLNet |
+| 2017 | ICCV Conf| DSLR-Quality Photos on Mobile Devices with Deep Convolutional Networks | [pdf](https://arxiv.org/abs/1704.02470) | DSLR |
+| 2017 | IEEE Conf| A real-time low-light enhancement algorithm for intelligent analysis | [pdf](https://ieeexplore.ieee.org/abstract/document/7949509) | |
+| 2017 | Springer Conf| Low-Light Image Enhancement Based on Constrained Norm Estimation | [pdf](https://link.springer.com/chapter/10.1007/978-981-10-7299-4_30) | |
+| 2017 | Springer Conf (CAIP)| A New Image Contrast Enhancement Algorithm Using Exposure Fusion Framework | [pdf](https://link.springer.com/chapter/10.1007/978-3-319-64698-5_4) | |
+| 2017 | ICPR| Enhancement of Low Light Level Images with Coupled Dictionary Learning | [pdf](https://ieeexplore.ieee.org/document/7899725) | |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
